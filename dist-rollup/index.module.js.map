@@ -1,0 +1,1 @@
+{"version":3,"file":"index.module.js","sources":["../src/index.ts"],"sourcesContent":["export default function useTsLib(a: number, b: number[]) {\n  // Uses the __spreadArrays function from tslib\n  return [a, ...b];\n}\n"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;SAAwB,QAAQ,CAAC,CAAS,EAAE,CAAW;;IAErD,uBAAQ,CAAC,GAAK,CAAC,EAAE;CAClB;;;;"}
